@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\Get Database Info\\Get Database Info\\Get Database Info.csproj": {}
+    "W:\\Get-Database-Info\\Get Database Info\\Get Database Info.csproj": {}
   },
   "projects": {
-    "W:\\Get Database Info\\Get Database Info\\Get Database Info.csproj": {
+    "W:\\Get-Database-Info\\Get Database Info\\Get Database Info.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\Get Database Info\\Get Database Info\\Get Database Info.csproj",
+        "projectUniqueName": "W:\\Get-Database-Info\\Get Database Info\\Get Database Info.csproj",
         "projectName": "Get Database Info",
-        "projectPath": "W:\\Get Database Info\\Get Database Info\\Get Database Info.csproj",
+        "projectPath": "W:\\Get-Database-Info\\Get Database Info\\Get Database Info.csproj",
         "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
-        "outputPath": "W:\\Get Database Info\\Get Database Info\\obj\\",
+        "outputPath": "W:\\Get-Database-Info\\Get Database Info\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

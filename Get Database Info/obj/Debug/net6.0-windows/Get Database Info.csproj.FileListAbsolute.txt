@@ -1,0 +1,21 @@
+W:\Get-Database-Info\Get Database Info\bin\Debug\net6.0-windows\Get Database Info.exe
+W:\Get-Database-Info\Get Database Info\bin\Debug\net6.0-windows\Get Database Info.deps.json
+W:\Get-Database-Info\Get Database Info\bin\Debug\net6.0-windows\Get Database Info.runtimeconfig.json
+W:\Get-Database-Info\Get Database Info\bin\Debug\net6.0-windows\Get Database Info.dll
+W:\Get-Database-Info\Get Database Info\bin\Debug\net6.0-windows\Get Database Info.pdb
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.csproj.AssemblyReference.cache
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\MainWindow.g.cs
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\App.g.cs
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info_MarkupCompile.cache
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info_MarkupCompile.lref
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\MainWindow.baml
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.g.resources
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.GeneratedMSBuildEditorConfig.editorconfig
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.AssemblyInfoInputs.cache
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.AssemblyInfo.cs
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.csproj.CoreCompileInputs.cache
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.dll
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\refint\Get Database Info.dll
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.pdb
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\Get Database Info.genruntimeconfig.cache
+W:\Get-Database-Info\Get Database Info\obj\Debug\net6.0-windows\ref\Get Database Info.dll

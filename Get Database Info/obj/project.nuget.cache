@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4ncvuhJjXEYu+ZPjTQiwEyuTcgv2pEElYHmIelFDR5kcqUqrW+FBngk0VmyIau/e/65NNSjYy2l7ese8P961Q==",
+  "dgSpecHash": "P6Gz2BFKpowEXyOykd78i52M/dcgy1Yytm+QuyKks48dtd2Fm09dDvEGp2EIHI2Qwcs3IG0J7YJ+C4jIVtZBLg==",
   "success": true,
-  "projectFilePath": "W:\\Get Database Info\\Get Database Info\\Get Database Info.csproj",
+  "projectFilePath": "W:\\Get-Database-Info\\Get Database Info\\Get Database Info.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
