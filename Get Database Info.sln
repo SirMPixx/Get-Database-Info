@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Database Info", "Get Database Info\Get Database Info.csproj", "{F04B5BE3-2EC7-42DB-B967-80EA602DAA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04B5BE3-2EC7-42DB-B967-80EA602DAA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04B5BE3-2EC7-42DB-B967-80EA602DAA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04B5BE3-2EC7-42DB-B967-80EA602DAA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04B5BE3-2EC7-42DB-B967-80EA602DAA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDA0DA3-D327-4753-9DAF-BAF80E815331}
+	EndGlobalSection
+EndGlobal
